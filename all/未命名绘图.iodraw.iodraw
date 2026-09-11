@@ -32,7 +32,7 @@
           <mxGeometry x="34" y="1470" width="152" height="152" as="geometry" />
         </mxCell>
         <mxCell id="t6pKRST3mUoniTHiBYlO-9" value="重试（≤3 次）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="211" y="1713" width="161" height="51" as="geometry" />
+          <mxGeometry x="174" y="1670" width="161" height="51" as="geometry" />
         </mxCell>
         <mxCell id="t6pKRST3mUoniTHiBYlO-10" value="解析结果，生成结构化审查报告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="228" y="1838" width="252" height="68" as="geometry" />
