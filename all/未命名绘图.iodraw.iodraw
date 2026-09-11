@@ -47,7 +47,7 @@
           <mxGeometry x="228" y="2176" width="253" height="51" as="geometry" />
         </mxCell>
         <mxCell id="t6pKRST3mUoniTHiBYlO-14" value="还有待审查 PR?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="356" y="2277" width="160" height="160" as="geometry" />
+          <mxGeometry x="390" y="2250" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="t6pKRST3mUoniTHiBYlO-15" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="408" y="2511" width="56" height="36" as="geometry" />
@@ -161,7 +161,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="561.96" y="2229.5" />
-              <mxPoint x="659.96" y="1057.5" />
               <mxPoint x="640" y="1072" />
               <mxPoint x="580" y="1072" />
             </Array>
