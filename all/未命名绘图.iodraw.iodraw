@@ -35,7 +35,7 @@
           <mxGeometry x="185" y="1728" width="161" height="51" as="geometry" />
         </mxCell>
         <mxCell id="t6pKRST3mUoniTHiBYlO-10" value="解析结果，生成结构化审查报告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="1820" width="252" height="68" as="geometry" />
+          <mxGeometry x="229" y="1820" width="252" height="68" as="geometry" />
         </mxCell>
         <mxCell id="t6pKRST3mUoniTHiBYlO-11" value="审查记录与评论入库 MySQL" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="226" y="1957" width="256" height="51" as="geometry" />
