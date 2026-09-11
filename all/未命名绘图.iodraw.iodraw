@@ -162,7 +162,7 @@
         <mxCell id="t6pKRST3mUoniTHiBYlO-33" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.669;exitY=0.14;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t6pKRST3mUoniTHiBYlO-14" target="t6pKRST3mUoniTHiBYlO-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="580" y="2260" />
+              <mxPoint x="561.96" y="2229.5" />
               <mxPoint x="600" y="2230" />
               <mxPoint x="620" y="2230" />
               <mxPoint x="810" y="1850" />
